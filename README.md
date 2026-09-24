@@ -149,7 +149,7 @@ Micrometer + OpenTelemetry · Docker
 
 | Branch | Purpose |
 |---|---|
-| `main` | Released state |
+| `master` | Released state |
 | `develop` | Integration branch; work lands here first |
 
 ## Licence
